@@ -1,2 +1,3 @@
 # yaseen
-This is my first repository
+This is my first repository.
+Author - shradha khapra
